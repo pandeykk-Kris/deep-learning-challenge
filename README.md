@@ -1,6 +1,6 @@
 ## deep-learning-challenge
 Alphabet Soup Charity Deep Learning Model
-# Purpose of the analysis:
+# Purpose of the analysis
 The analysis used real world dataset which contains more than 35k organizations` data, funded by Alphabet Soup in the past. With the help of this data, the aim of the analysis is to create a deep learning neural network model to predict the success/failure of the future funds.
 # Results:
 
