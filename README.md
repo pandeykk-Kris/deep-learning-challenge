@@ -25,4 +25,4 @@ In third attempt (Filename: AlphabetSoupCharity_Optimization-Copy1), I did not d
 Further increasing the epoch to 200 showed minor improvement of the model (Accuracy 77.02 % and loss 46.71%).
 
 #
-Even though not attempted in this exercise, the model can potentially be improved by using other activation functions like Tanh, increasing the number of hidden layers and nodes and using keras tuner library.
+Even though not attempted in this exercise (due to limited time), the model can potentially be improved by using other activation functions like Tanh, increasing the number of hidden layers and nodes and using keras tuner library.
