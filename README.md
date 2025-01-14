@@ -21,7 +21,10 @@ In first attempt, number of epoch was 100.  Accuracy level was 74.60% and the lo
 
 In second attempt, number of epcoh was increased to 200.  Accuracy level was 73.55 and the loss was 53.33%. 
 #
-In third attempt (Filename: AlphabetSoupCharity_Optimization-Copy1), I did not drop the NAME column, binned the classification and NAME columns values. Used three hidden neural layers of 30, 20 and 8 respectively.  Accuracy level increased to a value more than 75% to 76.89% and loss of 47.08%. Model was saved as AlphabetSoupCharity_Optimize.h5.
+In third attempt (Filename: AlphabetSoupCharity_Optimization-Copy1), I did not drop the NAME column, binned the classification and NAME columns values. 
+#
+Used three hidden neural layers of 30, 20 and 8 respectively.  Accuracy level increased to a value more than 75% to 76.89% and loss of 47.08%. Model was saved as AlphabetSoupCharity_Optimize.h5.
+#
 Further increasing the epoch to 200 showed minor improvement of the model (Accuracy 77.02 % and loss 46.71%).
 
 #
